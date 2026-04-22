@@ -6,3 +6,6 @@ Personal development log — notes, findings, and ongoing work.
 - Added basic retry logic for network requests
 - Resolved TODO items from previous session
 - Updated license year
+
+## 2026-04-22
+- Reorganised test fixtures
